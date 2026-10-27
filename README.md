@@ -53,7 +53,7 @@
 如果设备尚未安装猫猫，可选择：
 
 - **在线安装**：点击「在线安装」，脚本从预设地址下载安装包并执行安装，需要设备能够访问下载源。
-- **离线安装**：预先准备兼容的 `mihomo-tproxy.zip`，点击「离线安装」并选择本地文件。
+- - **离线安装**：先[下载 mihomo-tproxy.zip]([https://github.com/你的用户名/仓库名/releases/latest/download/mihomo-tproxy.zip](https://github.com/yingxuzi/cat/releases/download/v1.0/mihomo-tproxy.zip)，再点击「离线安装」选择下载的文件。
 
 离线安装仅省去安装包的在线下载；后续订阅、规则集等更新仍可能需要网络。安装流程会写入 `/data/clash` 并添加开机启动项。已安装时，脚本会提示，无需重复安装。
 
